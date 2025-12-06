@@ -14,9 +14,12 @@ Welcome to the **CP-31 Solution Sheet**! This repository contains solutions to p
 CP-31-Solutions/
 │
 ├── 1000/
-│   ├── Problem1.cpp
-│   └── approach.txt
-│
+│   ├── Problem 1
+|       ├──[problem-code].cpp
+|       ├──approach.txt
+│   ├── Problem 2
+│   ├── ...
+│   ├── Problem 31
 ├── 1100/
 ├── 1200/
 │   └── ...
