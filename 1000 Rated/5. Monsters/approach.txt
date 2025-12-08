@@ -1,3 +1,3 @@
-We can deduce that befire the first kill, the character will keep using his ability until health of any monster is less than or equal to k.
+We can deduce that before the first kill, the character will keep using his ability until health of any monster is less than or equal to k.
 And then, will kill each moster with a single stroke, in the order as descirbed in the question.
 
