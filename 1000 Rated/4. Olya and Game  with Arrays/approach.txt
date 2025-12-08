@@ -1,0 +1,3 @@
+List of n arrays is given. Each array has atleast 2 elements in it. Each array has a current minimum element in it and its potential (min element in the array if current minimum element is removed from it).
+Because for max beauty, we will put all min current elements in the array having min potential. 
+So, Answer is nothing but: (sum of potential of each array) - (minPotential) + (minCurr)
