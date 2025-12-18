@@ -1,0 +1,4 @@
+While reading the input we run a counter 'count' and increase it if temperature <= q (max temp that teacher can bear).
+If for some entry temp > q, then till that point, if counter >= k, then we count possible ways, bring the counter down to zero, and continue.
+
+Finally, output total ways, the required answer.
